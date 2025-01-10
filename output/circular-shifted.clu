@@ -1,0 +1,142 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.526)
+
+
+pGEM_(ABI)      nantctataggcgaattcgagctcggtacccggggatcctctagagtcgacctgcaggca
+.               ------------------------------------------------------------
+                                                                            
+
+pGEM_(ABI)      tgcaagcttgagtattctatagtgtcacctaaatagcttggcgtaatcatggtcatagct
+.               ------------------------------------------------------------
+                                                                            
+
+pGEM_(ABI)      gtttcctgtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcat
+.               ------------------------------------------------------------
+                                                                            
+
+pGEM_(ABI)      aaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaattgcgttgcgctc
+.               --------------------------gagtgagctaactcacattaattgcgttgcgctc
+                                          **********************************
+
+pGEM_(ABI)      actgcccgctttccagtcgggaaacctgtcgtgccagctgcattaatgaatcggccaacg
+.               actgcccgctttccagtcgggaaacctgtcgtgccagctgcattaatgaatcggccaacg
+                ************************************************************
+
+pGEM_(ABI)      cgcggggagaggcggtttgcgtattgggcgctcttccgcttcctcgctcactgactcgct
+.               cgcggggagaggcggtttgcgtattgggcgctcttccgcttcctcgctcactgactcgct
+                ************************************************************
+
+pGEM_(ABI)      gcgctcggtcgttcggctgcggcgagcggtatcagctcactcaaaggcggtaatacggtt
+.               gcgctcggtcgttcggctgcggcgagcggtatcagctcactcaaaggcggtaatacggtt
+                ************************************************************
+
+pGEM_(ABI)      atccacagaatcaggggataacgcaggaaagaacatgtgagcaaaaggccagcaaaaggc
+.               atccacagaatcaggggataacgcaggaaagaacatgtgagcaaaaggccagcaaaaggc
+                ************************************************************
+
+pGEM_(ABI)      caggaaccgtaaaaaggccgcgttgctggcgtttttccataggctccgcccccctgacga
+.               caggaaccgtaaaaaggccgcgttgctggcgtttttccataggctccgcccccctgacga
+                ************************************************************
+
+pGEM_(ABI)      gcatcacaaaaatcgacgctcaagtcagaggtggcgaaacccgacaggactataaagata
+.               gcatcacaaaaatcgacgctcaagtcagaggtggcgaaacccgacaggactataaagata
+                ************************************************************
+
+pGEM_(ABI)      ccaggcgtttccccctggaagctccctcgtgcgctctcctgttccgaccctgccgcttac
+.               ccaggcgtttccccctggaagctccctcgtgcgctctcctgttccgaccctgccgcttac
+                ************************************************************
+
+pGEM_(ABI)      cggatacctgtccgcctttctcccttcgggaagcgtggcgctttctcatagctcacgctg
+.               cggatacctgtccgcctttctcccttcgggaagcgtggcgctttctcatagctcacgctg
+                ************************************************************
+
+pGEM_(ABI)      taggtatctcagttcggtgtaggtcgttcgctccaagctgggctgtgtgcacgaaccccc
+.               taggtatctcagttcggtgtaggtcgttcgctccaagctgggctgtgtgcacgaaccccc
+                ************************************************************
+
+pGEM_(ABI)      cgttcagcccgaccgctgcgccttatccggtaactatcgtcttgagtccaacccggtaag
+.               cgttcagcccgaccgctgcgccttatccggtaactatcgtcttgagtccaacccggtaag
+                ************************************************************
+
+pGEM_(ABI)      acacgacttatcgccactggcagcagccactggtaacaggattagcagagcgaggtatgt
+.               acacgacttatcgccactggcagcagccactggtaacaggattagcagagcgaggtatgt
+                ************************************************************
+
+pGEM_(ABI)      aggcggtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagt
+.               aggcggtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagt
+                ************************************************************
+
+pGEM_(ABI)      atttggtatctgcgctctgctgaagccagttaccttcggaaaaagagttggtagctctng
+.               atttggtatctgcgctctgctgaagccagttaccttcggaaaaagagttggtagctctag
+                ********************************************************** *
+
+pGEM_(ABI)      atccggcaacaaccaccgctggtagcggnggttttttgttngcaagcagcanattacncn
+.               atccggcaacaaccaccgctggtagcggaggttttttgttagcaagcagcatattacccc
+                **************************** *********** ********** ***** * 
+
+pGEM_(ABI)      caaaaaaaaangatctcaanaaaatccttngatnttt-----------------------
+.               caaaaaaaaacgatctcaaaaaaatcctttgacgttccttttttatgatgaaccacttct
+                ********** ******** ********* **. **.                       
+
+pGEM_(ABI)      ------------------------------------------------------------
+.               caagatttgccaagaggccactcaaccaaaatcattatatagaagtgcaagtgctgccgc
+                                                                            
+
+pGEM_(ABI)      ------------------------------------------------------------
+.               aaaccgcccgaaaacagcaactacaacggactctgttaatagaacaccttctcaacgagg
+                                                                            
+
+pGEM_(ABI)      ---------------------------------------------------------tnn
+.               gcgtgtagctgtaccttcaacaccaagtgttaggtccgcttctcgagctatgacgagtcc
+                                                                         *  
+
+pGEM_(ABI)      acggggnctgacnctnagggnaaaaaa---------------------------------
+.               aaggacaccgcttcctagagtaaaaaacactcaaaatcggatgatacttctagtctcaaa
+                * **.  *.* . *. **.* ******                                 
+
+pGEM_(ABI)      ------------------------------------------------------------
+.               attgagtctcctttaattcagtgtttgaatcgtttgtcaatggtagaaggacaatatatg
+                                                                            
+
+pGEM_(ABI)      ------------------------------------------------------------
+.               gcacagtatgatcaaaagttaagtacgattaaagaaatgtatcacaaattggagtcatat
+                                                                            
+
+pGEM_(ABI)      ------------------------------------------------------------
+.               tgtaaccgcttaggaagtccgttcgttttacctgattttgagaattcatttttatctgat
+                                                                            
+
+pGEM_(ABI)      ------------------------------------------------------------
+.               gtatccgatgcttttactgaatctttgagaggacgcatcaacgaagccgaaaaggagatt
+                                                                            
+
+pGEM_(ABI)      ---------------------actcccnttaaggga-----tttngncntgaantttnaa
+.               gatgcgagattagaggttattaattcctttgaagaagaaattttgggtttgtggtctgaa
+                                     * *.** **.*.*.*     *** * . ** . *.* **
+
+pGEM_(ABI)      ------------------------------------------------------------
+.               ctcggtgttgagcccgctgatgttccacaatacgaacaattgcttgaatcccatactaat
+                                                                            
+
+pGEM_(ABI)      ------------------------aaagannttncccnaaaacnnttnaattaaaaaaan
+.               cgaccaaatgatgtttatgttactcaagaacttatcgaccaactttgcaagcaaaaagaa
+                                         ****  ** .*    ***  *  ** .*****.* 
+
+pGEM_(ABI)      ntttaaacnnccnaaaa-----------------atttnnaaaaaat----------tgn
+.               gttttttccgctgaaaaagaaaagagaagtgatcatttaaaaagtatacaatttttctat
+                 ***   *  *. ****                 ****  ***. **          *. 
+
+pGEM_(ABI)      ggggaannnccaggntttnntnggggggccct----------------------------
+.               aggcgaattcgagctcggtacccggggatcctctagagtcgacctgcaggcatgcaagct
+                .** .*   * **  .    .  ****..***                            
+
+pGEM_(ABI)      -----------------------------------------------------nccccnn
+.               tgagtattctatagtgtcacctaaatagcttggcgtaatcatggtcatagctgtttcctg
+                                                                      ..**  
+
+pGEM_(ABI)      nggggtttttttncccaaangnggcccccccc----------cnggnaaaaaaaanaann
+.               tgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgta
+                 * *.  ** ** .**.   . ....** * *          * ** *. * ***  .  
+
+pGEM_(ABI)      ggggnn------------
+.               aagcctggggtgcctaat
+                ..*               

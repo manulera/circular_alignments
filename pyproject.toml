@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "circular-alignments"
+version = "0.1.0"
+description = ""
+package-mode = false
+authors = ["Manuel Lera-Ramirez <manulera14@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+biopython = "^1.84"
+pydna = "^5.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
